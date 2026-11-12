@@ -1,0 +1,481 @@
+# Traducción al inglés de Super Tempo.
+# Formato: FICHERO índice <TAB> texto. El sufijo de control ({n}{w}{e}, {w}{e} o {e}) se copia del japonés.
+# Si el texto empieza por "=", se usa tal cual (con sus códigos de control).
+# Máximo 32 caracteres por mensaje.
+A_R0S0 0	={[  ]}{[ G]}{[AM]}{[E ]}{[ST]}{[AR]}{[T ]}{[  ]}{e}
+A_R0S0 1	={[  ]}{[OP]}{[TI]}{[ON]}{[  ]}{e}
+A_R0S0 2	={[ L]}{[EV]}{[EL]}{[  ]}{e}
+A_R0S0 3	={[  ]}{[ S]}{[UP]}{[ER]}{[ E]}{[AS]}{[Y ]}{[  ]}{e}
+A_R0S0 4	={[  ]}{[SU]}{[PE]}{[R ]}{[NO]}{[RM]}{[AL]}{[  ]}{e}
+A_R0S0 5	={[  ]}{[SU]}{[PE]}{[R ]}{[HA]}{[RD]}{[  ]}{e}
+A_R0S1 0	A mysterious signal suddenly
+A_R0S1 1	burst onto Buopos's plasma
+A_R0S1 2	display!
+A_R0S1 3	Sorry to barge in like this!
+A_R0S1 4	My name is "Major Minor",
+A_R0S1 5	the Music World's most
+A_R0S1 6	famous producer, zansu!
+A_R0S1 7	Long time no see, zansu...
+A_R0S1 8	Tempo, Katy.
+A_R0S1 9	Seeing as the "Blue Bird"
+A_R0S1 10	lured you here, I take it
+A_R0S1 11	you two are still dirt
+A_R0S1 12	poor as ever, zansu.
+A_R0S1 13	I happen to be here myself
+A_R0S1 14	for my own reasons...
+A_R0S1 15	So, since I happen to be here,
+A_R0S1 16	and we hail from the same town,
+A_R0S1 17	I'll lend you a hand, zansu!
+A_R0S1 18	Right now, you are here!
+A_R0S1 19	The gateway to Marchen Ginza,
+A_R0S1 20	"Frog Forest", zansu!
+A_R0S1 21	={e9}{n}HOW MARCHEN GINZA WORKS{n}{e9}{n}{w}{e}
+A_R0S1 22	The Blue Bird serves Kanteimaru.
+A_R0S1 23	Its duty is to guide broke
+A_R0S1 24	folks like you to
+A_R0S1 25	Kanteimaru, zansu.
+A_R0S1 26	Along the way, grab as many
+A_R0S1 27	music notes as you can, zansu.
+A_R0S1 28	In Marchen Ginza, collect notes,
+A_R0S1 29	then step inside Buopos and
+A_R0S1 30	the Blue Bird will exchange
+A_R0S1 31	your notes for prizes.
+A_R0S1 32	That's the system, zansu.
+A_R0S1 33	Show your goods to Kanteimaru
+A_R0S1 34	and a super-rich lifestyle
+A_R0S1 35	could be yours!
+A_R0S1 36	It's no mere dream, zansu!
+A_R0S1 37	For a rich man like me, though,
+A_R0S1 38	it hardly matters, zansu~!
+A_R0S1 39	Kanteimaru is, so to speak,
+A_R0S1 40	a "god of fortune", zansu!
+A_R0S1 41	But right now, Kanteimaru
+A_R0S1 42	is being held captive...
+A_R0S1 43	And it's all, all the fault
+A_R0S1 44	of that huge eyeball planet,
+A_R0S1 45	"Technotch", zansu!
+A_R0S1 46	Please do something, zansu!
+A_R0S1 47	Good luck, zansu!
+A_R0S1 48	"Message from Major Minor"
+A_R0S1 49	To think you beat the Frog King!
+A_R0S1 50	Such cute faces, and yet
+A_R0S1 51	amazing as always, zansu!
+A_R0S1 52	You two might just get to
+A_R0S1 53	meet Kanteimaru, zansu.
+A_R0S1 54	Good luck, zansu!
+A_R0S1 55	=Right now, you are around...{f1}{w}{e}
+A_R0S1 56	just past the "Frog Forest",
+A_R0S1 57	="Bremen Village", zansu!{f1}{f1}{w}{e}
+A_R0S1 58	Dog, Cat, Rooster, Donkey...
+A_R0S1 59	Gather the 4 Bremens and have
+A_R0S1 60	them play the famous tune
+A_R0S1 61	"Stretchy Arms", zansu!
+A_R0S1 62	Search every nook and cranny
+A_R0S1 63	and gather all 4 of
+A_R0S1 64	the Bremens, zansu!
+A_R0S1 65	Good luck, zansu!
+A_R0S1 66	={e9}{n}MARCHEN GINZA INFO{n}{e9}{n}{w}{e}
+A_R0S1 67	There's a game center, zansu!
+A_R0S1 68	Press buttons to the rhythm
+A_R0S1 69	and rake it in, zansu!
+A_R0S1 70	It takes a little knack, but
+A_R0S1 71	once you get it, it's easy!?
+A_R0S1 72	A perfect score gets a 1UP!
+A_R0S1 73	"Message from Major Minor"
+A_R0S1 74	.....
+A_R0S1 75	I have a rough idea where
+A_R0S1 76	Tempo is being held, zansu!
+A_R0S1 77	Right now, you are here!
+A_R0S1 78	"Techno Garden", zansu!
+A_R0S1 79	And Tempo is being held at
+A_R0S1 80	="Niwadreen Palace", zansu{f1}{w}{e}
+A_R0S1 81	And!!
+A_R0S1 82	The one who brainwashed Tempo
+A_R0S1 83	"Bzzt... krrk krrk..."
+A_R0S1 84	={n}{n}{e9}{n}MYSTERIOUS SIGNAL{n}{e9}{n}{w}{e}
+A_R0S1 85	=Hiii!{n}We're the "BeeBees"~!{n}{w}{e}
+A_R0S1 86	We're Tempo's biggest fans~!
+A_R0S1 87	So we kidnapped him. Tee-hee!
+A_R0S1 88	If you can beat "Niwadreen"
+A_R0S1 89	and bring Tempo to his senses,
+A_R0S1 90	maybe we'll give him back!
+A_R0S1 91	But it's so strange...
+A_R0S1 92	We used to live on Technotch
+A_R0S1 93	together with the Mussies,
+A_R0S1 94	but lately they've all become
+A_R0S1 95	so aggressive...
+A_R0S1 96	What could be wrong...?
+A_R0S1 97	Where are we, anyway?
+A_R0S1 98	=Marchen Ginza??{n}Where??{n}{w}{e}
+A_R0S1 99	=Who's Niwadreen?{n}Ugh!!{w}{e}
+A_R0S1 100	My head hurts!!!
+A_R0S1 101	"Message from Major Minor"
+A_R0S1 102	Amazing, zansu!
+A_R0S1 103	You made it this far, zansu!!
+A_R0S1 104	Right now, you are...
+A_R0S1 105	=past "Peperon Valley"...{f1}{f1}{w}{e}
+A_R0S1 106	=and you've finally arrived!{f1}{f1}{w}{e}
+A_R0S1 107	Technotch's supply depot,
+A_R0S1 108	"Noboren Base", zansu!
+A_R0S1 109	Sneak into Noboren Base and
+A_R0S1 110	turn Buopos into
+A_R0S1 111	"Space Buopos", zansu!
+A_R0S1 112	Once that's done, Technotch
+A_R0S1 113	is right in front of you!!
+A_R0S1 114	=Let's go!{n}Zansu!{n}{w}{e}
+A_R0S1 115	"Noboren Base Info"
+A_R0S1 116	To reach the Noboren Base
+A_R0S1 117	hangar, you'll need
+A_R0S1 118	a keyword, zansu!
+A_R0S1 119	Memorize the gear panel notes
+A_R0S1 120	and enter them in the Analyzer!
+A_R0S1 121	Use your memory, zansu!
+A_R0S1 122	"Message from Major Minor"
+A_R0S1 123	This is the final hurdle!
+A_R0S1 124	Listen carefully, zansu!
+A_R0S1 125	Where you're headed now is
+A_R0S1 126	an asteroid belt stretching
+A_R0S1 127	1.5 light-years, known as
+A_R0S1 128	the "Melody Way", zansu!
+A_R0S1 129	Technotch is hiding
+A_R0S1 130	somewhere in there, zansu!
+A_R0S1 131	It's as good as cornered!
+A_R0S1 132	Your counterattack has
+A_R0S1 133	Technotch ready to run!
+A_R0S1 134	Charge in and smash it!
+A_R0S1 135	Rescue Kanteimaru and bring
+A_R0S1 136	peace back to
+A_R0S1 137	Marchen Ginza, zansu!!
+A_R0S1 138	={e9}{n}MELODY WAY INFO{n}{e9}{w}{e}
+A_R0S1 139	The Melody Way has lots of
+A_R0S1 140	music quizzes, zansu.
+A_R0S1 141	For reference, it's good to
+A_R0S1 142	remember this, zansu!
+A_R0S1 143	=This is "Do"{f1}{f1}{w}{e}
+A_R0S1 144	=This is "Re"{f1}{f1}{w}{e}
+A_R0S1 145	=And this is "Mi", zansu!{f1}{f1}{w}{e}
+A_R0S1 146	Well, I just remembered some
+A_R0S1 147	business, so I'll be
+A_R0S1 148	taking my leave, zansu!
+A_R0S1 149	If you meet Kanteimaru,
+A_R0S1 150	tell him Major Minor said sorry,
+A_R0S1 151	zansu~!
+A_R0S1 152	Tempo, Katy...
+A_R0S1 153	I hope you get a good
+A_R0S1 154	=appraisal, zansu{eb}{ec}{ed}!{n}{w}{e}
+A_R0S1 155	.....
+A_R0S1 156	The signal from Major Minor
+A_R0S1 157	went dead....
+A_R0S1 158	"Message from Major Minor"
+A_R0S1 159	The second half at last!!
+A_R0S1 160	Full speed ahead, zansu!
+A_R0S1 161	Right now, you are
+A_R0S1 162	around "Peperon Valley"!
+A_R0S1 163	This area is full of
+A_R0S1 164	ferocious creatures, and is
+A_R0S1 165	known as "Marchen Ginza's
+A_R0S1 166	Wildlands", zansu!
+A_R0S1 167	Steel yourselves, or
+A_R0S1 168	you'll get hurt, zansu!
+A_R0S1 169	={e9}{n}MAJOR MINOR'S THEORY{n}{e9}{n}{w}{e}
+A_R0S1 170	=Let's go!{n}Zansu!{n}{w}{e}
+A_R0S1 171	Seems the BeeBees caused you
+A_R0S1 172	some trouble back there!
+A_R0S1 173	As you know, I raised those
+A_R0S1 174	girls myself. They're
+A_R0S1 175	the idols of
+A_R0S1 176	the Music World, zansu.
+A_R0S1 177	Technotch must have brainwashed
+A_R0S1 178	them into doing that, zansu!
+A_R0S1 179	And all the bosses you've
+A_R0S1 180	fought so far...
+A_R0S1 181	were trainees from my agency,
+A_R0S1 182	the "Mussies"!
+A_R0S1 183	They were brainwashed,
+A_R0S1 184	possessed the locals, and
+A_R0S1 185	transformed, zansho!
+A_R0S1 186	Please destroy Technotch
+A_R0S1 187	as fast as you can, zansu!!
+A_R0S1 188	=Farewell, zansu{eb}{ec}{ed}!!{n}{w}{e}
+A_R0S1 189	Oh, and one more tip!
+A_R0S1 190	Of the prizes you get at the
+A_R0S1 191	exchange screen, some are
+A_R0S1 192	valuable, and some aren't!
+A_R0S1 193	This is where fate splits!!
+A_R0S1 194	It will change your final
+A_R0S1 195	appraisal result, zansu!
+A_R0S1 196	Choose wisely, zansu!
+A_R4S5 0	.....
+A_R4S5 1	"Pipo-pipo-peee!"
+A_R4S5 2	Suddenly, an eerie electronic
+A_R4S5 3	sound echoed through the room.
+A_R4S5 4	A cold wind blew in, and
+A_R4S5 5	out of nowhere, a "Techno Mask"
+A_R4S5 6	appeared!
+A_R4S5 7	Crackle crackle crackle!!
+A_R4S5 8	The Techno Mask latched onto
+A_R4S5 9	Tempo, and before their eyes
+A_R4S5 10	turned him into Mecha Tempo!
+A_R4S5 11	"Kyaaah!"
+A_R4S5 12	Katy screamed.
+A_R4S5 13	"Gigi-pi-kyurorin!"
+A_R4S5 14	Out of his mind, Tempo
+A_R4S5 15	smashed through the wall
+A_R4S5 16	and flew off at Mach speed
+A_R4S5 17	to the far side of the sky.
+A_R4S5 18	"Ow, that hurt! Buopooo!"
+A_R4S5 19	Buopos grumbled.
+A_R4S5 20	="Tempo!{n}Where are you going?!"{n}{w}{e}
+A_R4S5 21	Worried about Tempo, Katy
+A_R4S5 22	decided to go look for him.
+A_R9S5 0	=Dear Tempo,{n}first of all,{n}{w}{e}
+A_R9S5 1	thank you for saving
+A_R9S5 2	Marchen Ginza!
+A_R9S5 3	Now, all who come here are
+A_R9S5 4	appraised by me, Kanteimaru.
+A_R9S5 5	That is the custom.
+A_R9S5 6	I, Kanteimaru, shall now
+A_R9S5 7	appraise your belongings
+A_R9S5 8	with all my heart!
+A_R9S5 9	=First...{n}{w}{e}Next...{n}{w}{e}Last...{n}{w}{e}
+A_R9S5 10	Hmm! This is...!!
+A_R9S5 11	That concludes all
+A_R9S5 12	of the appraisals.
+A_R9S5 13	And now, my verdict...
+A_R9S5 14	Bah, it's a fake!
+A_R9S5 15	A so-so item.
+A_R9S5 16	A rather fine item.
+A_R9S5 17	Splendid. A true treasure!
+A_R9S5 18	Great!! Really great!!
+A_R9S5 19	So amazing, it's priceless!!
+A_R9S5 20
+A_R9S5 21	The manga "Pancho-kun"...
+A_R9S5 22	The manga "DJ Primer"...
+A_R9S5 23	The manga "Shintakara-dori"...
+A_R9S5 24	A "butterflyfish"...
+A_R9S5 25	An "arowana"...
+A_R9S5 26	A "longnose"...
+A_R9S5 27	The toy "Gold V"...
+A_R9S5 28	The minicar "Mach 1"...
+A_R9S5 29	The toy "Robo-chan"...
+A_R9S5 30	A "single-lens reflex"...
+A_R9S5 31	A "twin-lens reflex"...
+A_R9S5 32	A "compact camera"...
+A_R9S5 33	Einstein's "flask"...
+A_R9S5 34	A "tasteful pot"...
+A_R9S5 35	A "suspicious pot"...
+A_R9S5 36	A "portrait of Katy"...
+A_R9S5 37	A "sketch of notes"...
+A_R9S5 38	A "portrait of Tempo"...
+A_R9S5 39	The "Open 7"...
+A_R9S5 40	The "Family 2CV"...
+A_R9S5 41	The "Monster"...
+A_R9S5 42	"The Little Mermaid"...
+A_R9S5 43	"Thumbelina"...
+A_R9S5 44	"China Princess"...
+A_R9S5 45	"Sleepless Princess"...
+A_R9S5 46	"Princess Kaguya"...
+A_R9S5 47	"Princess Peepo"...
+A_R9S5 48	"Cinderella"...
+A_R9S5 49	A "kitty"...
+A_R9S5 50	A "frisbee"...
+A_R9S5 51	A "twinkle star"...
+A_R9S5 52	A "fairy"...
+A_R9S5 53	A "troika"...
+A_R9S5 54	A "sofa"...
+A_R9S5 55	A "desk"...
+A_R9S5 56	A "shelf"...
+A_R9S5 57	A "clock"...
+A_R9S5 58	A "chandelier"...
+A_R9S5 59	A "fish tank"...
+A_R9S5 60	An "indoor lamp"...
+A_R9S5 61	A "houseplant"...
+A_R9S5 62	={[MA]}{[NG]}{[A ]}{e}
+A_R9S5 63	={[FI]}{[SH]}{e}
+A_R9S5 64	={[TO]}{[YS]}{e}
+A_R9S5 65	={[CA]}{[ME]}{[RA]}{e}
+A_R9S5 66	={[PO]}{[TS]}{e}
+A_R9S5 67	={[ A]}{[RT]}{e}
+A_R9S5 68	={[OL]}{[D ]}{[CA]}{[RS]}{e}
+A_R9S5 69	={[ O]}{[LD]}{e}
+A_R9S5 70	={[CA]}{[RS]}{n}{n}{n}{e}
+A_R9S5 71	={[RO]}{[YA]}{[L ]}{[DO]}{[LL]}{[S ]}{e}
+A_R9S5 72	={[RO]}{[YA]}{[L ]}{e}
+A_R9S5 73	={[DO]}{[LL]}{[S ]}{e}
+A_R9S5 74	={[MU]}{[SI]}{[C ]}{[TO]}{[YS]}{e}
+A_R9S5 75	={[MU]}{[SI]}{[C ]}{e}
+A_R9S5 76	={[TO]}{[YS]}{n}{n}{e}
+A_R9S5 77	={[BO]}{[NU]}{[S ]}{e}
+
+# A_R9S2: carta de Major Minor, rangos del 長者番付, final y créditos (créditos convertidos a 8 bits sin traducir)
+A_R9S2 0	Dear Tempo,
+A_R9S2 1	How have you been?
+A_R9S2 2	That was a splendid performance.
+A_R9S2 3	Well done.
+A_R9S2 4	To tell the truth, that machine
+A_R9S2 5	planet was a failed project
+A_R9S2 6	of mine. I tried to build a
+A_R9S2 7	giant rhythm box, but it went
+A_R9S2 8	haywire and turned into an
+A_R9S2 9	evil machine planet.
+A_R9S2 10	Oops.
+A_R9S2 11	...Sorry!
+A_R9S2 12	= -- Major Minor --{e}
+A_R9S2 13	Super
+A_R9S2 14	Kinda
+A_R9S2 15	Billionaire
+A_R9S2 16	Millionaire
+A_R9S2 17	Rich Kid
+A_R9S2 18	Well-Off Kid
+A_R9S2 19	It's "Super Billionaire"-chu~!!
+A_R9S2 20	It's "Billionaire"-chu~!!
+A_R9S2 21	It's "Kinda Billionaire"-chu~!!
+A_R9S2 22	It's "Super Millionaire"-chu~!!
+A_R9S2 23	It's "Millionaire"-chu~!!
+A_R9S2 24	It's "Kinda Millionaire"-chu~!!
+A_R9S2 25	It's "Super Rich Kid"-chu~!!
+A_R9S2 26	It's "Rich Kid"-chu~!!
+A_R9S2 27	It's "Kinda Rich Kid"-chu~!!
+A_R9S2 28	It's "Super Well-Off Kid"-chu~!!
+A_R9S2 29	It's "Well-Off Kid"-chu~!!
+A_R9S2 30	It's "Kinda Well-Off Kid"-chu~!!
+A_R9S2 31	=T{n}H{n}E{n}{n}E{n}N{n}D{e}
+A_R9S2 32	From today on, you two are...
+A_R9S2 33	=- ROUND SELECT -{e}
+A_R9S2 34	At the first ROUND START,
+A_R9S2 35	hold Y, Z and R and press L.
+A_R9S2 36	Spots without a number give
+A_R9S2 37	unlimited bonus games, zansu!
+A_R9S2 38	And so,
+A_R9S2 39	Tempo and Katy
+A_R9S2 40	or so the story goes.
+A_R9S2 41	Happily ever after. The end.
+A_R9S2 42	became "Super Billionaires"
+A_R9S2 43	became "Billionaires"
+A_R9S2 44	became "Kinda Billionaires"
+A_R9S2 45	became "Super Millionaires"
+A_R9S2 46	became "Millionaires"
+A_R9S2 47	became "Kinda Millionaires"
+A_R9S2 48	became "Super Rich Kids"
+A_R9S2 49	became "Rich Kids"
+A_R9S2 50	became "Kinda Rich Kids"
+A_R9S2 51	became "Super Well-Off Kids"
+A_R9S2 52	became "Well-Off Kids"
+A_R9S2 53	became "Kinda Well-Off Kids"
+A_R9S2 54	=SUPERTEMPO{n}STAFF{e}
+A_R9S2 55	=Produce{e}
+A_R9S2 56	=Development{e}
+A_R9S2 57	=Character{n}Animation{e}
+A_R9S2 58	=Music & Sound{n}effect{e}
+A_R9S2 59	=Voice{n}SE{e}
+A_R9S2 60	=Special{n}Thanks{e}
+A_R9S2 61	=MUSSIES{e}
+A_R9S2 62	=RED{n}Company{e}
+A_R9S2 63	=ASPECT{e}
+A_R9S2 64	=IMAGIN{e}
+A_R9S2 65	=T'sMusic{e}
+A_R9S2 66	=MITSUI & CO.,LTD{n}STAFF{e}
+A_R9S2 67	=MEDIAQUEST{e}
+A_R9S2 68	=Character & Game{n}design{e}
+A_R9S2 69	=Supervisor{e}
+A_R9S2 70	=Producer{e}
+A_R9S2 71	=Assistant{n}Producer{e}
+A_R9S2 72	=Director{e}
+A_R9S2 73	=Art{n}Director{e}Assistant{n}Director{e}
+A_R9S2 74	=Quality{n}Coordinator{e}
+A_R9S2 75	=Graphic{n}Designer{e}
+A_R9S2 76	=Main{n}Programmer{e}
+A_R9S2 77	=Programmer{e}
+A_R9S2 78	=Main{n}Designer{e}
+A_R9S2 79	=Designer{e}
+A_R9S2 80	=Sound{n}Assistant{e}
+A_R9S2 81	=Sound{n}Direction & Compose{e}
+A_R9S2 82	=Music{e}
+A_R9S2 83	=Sound{n}Effect{n}Direction{e}
+A_R9S2 84	=Engineer{e}
+A_R9S2 85	=Drums{e}
+A_R9S2 86	=Promotion{e}
+A_R9S2 87	=Quality{n}Assurance{e}
+A_R9S2 88	=Thanks{n}To{e}
+A_R9S2 89	=Yukihiko{n}Hojo{e}
+A_R9S2 90	=Yasuaki{n}Nagoshi{e}
+A_R9S2 91	=Shinichi{n}Oguri{e}
+A_R9S2 92	=K.suke{n}Abe{e}
+A_R9S2 93	=Keita{n}Komiyama{e}
+A_R9S2 94	=Keisaku{n}Okumura{e}
+A_R9S2 95	=Hideki{n}Kato{e}
+A_R9S2 96	=Yasuo{n}Morifuji{e}
+A_R9S2 97	=Takeshi{n}Tsukioka{e}
+A_R9S2 98	=Kazuyuki{n}Oikawa{e}
+A_R9S2 99	=Masayo{n}Yoshioka{e}
+A_R9S2 100	=HIRO{n}777{e}
+A_R9S2 101	=MIXA{e}
+A_R9S2 102	=Norizou{e}
+A_R9S2 103	=HAMARUO{e}
+A_R9S2 104	=Tarou{n}Murayama{e}
+A_R9S2 105	=BON-Z{e}
+A_R9S2 106	=YOU.1{e}
+A_R9S2 107	=SEIICHI{e}
+A_R9S2 108	=Toshikatsu{n}Fujii{e}
+A_R9S2 109	=Mie{n}Terao{e}
+A_R9S2 110	=Chikako{n}Oka{e}
+A_R9S2 111	=Hiroyuki{n}Hamada{e}
+A_R9S2 112	=Chamy{e}
+A_R9S2 113	=Manabu{n}Fujiki{e}
+A_R9S2 114	=Kouji{n}Tominaga{e}
+A_R9S2 115	=Kenny{n}Mosley{e}
+A_R9S2 116	=Yumi{n}Asada{e}
+A_R9S2 117	=Robert{n}Timbello{e}
+A_R9S2 118	=P.H.Chada(RED){e}
+A_R9S2 119	=Hiroshi{n}Aso(SEGA){e}
+A_R9S2 120	=Mika{n}Akitaka(RED){e}
+A_R9S2 121	=Yuzuru{n}Moriuti{e}
+A_R9S2 122	=Masayoshi{n}Oda{e}
+A_R9S2 123	=Atsuko{n}Nakajima{e}
+A_R9S2 124	=Teturo{n}Furushima{e}
+A_R9S2 125	=Toru{n}Akiyama{e}
+A_R9S2 126	=Takuma{n}Muramatu{e}
+A_R9S2 127	=Tomoyuki{n}Nakatsubo{e}
+A_R9S2 128	=Motoki{n}Yamagiwa{e}
+A_R9S2 129	=Masaki{n}Horiuchi{e}
+A_R9S2 130	=Hiroshi{n}Ishikawa{e}
+A_R9S2 131	=Arihiro{n}Ichida{e}
+A_R9S2 132	=Hiroyuki{n}Ikoma{e}
+A_R9S2 133	=Akiko{n}Maeda{n}{n}{n}&{e}&{e}
+A_R9S2 134	=MQ{n}Management & Staff{e}
+A_R9S2 135	=Special{n}Thanks{n}To{n}BPC{e}{n}{n}{e}
+A_R9S2 136	={n}{n}{n}{n}{n}{n}{e}
+A_R9S2 137	={e}
+
+# Tiendas (A_R8S5 tienda del pájaro, A_R8S6 tienda de los Mussies). Registros fijos de 8 bits, terminador FF.
+A_R8S5 A0	Time to pay up, tweet!
+A_R8S5 A1	Pick one, tweet.
+A_R8S5 A2	Come again, tweet!
+A_R8S5 A3	Got the Melody Toy!!
+A_R8S5 A4	Got the Princess Figure!!
+A_R8S5 A5	Special delivery!
+A_R8S5 B0	Comics, tweet!!
+A_R8S5 B1	Tropical fish, tweet!!
+A_R8S5 B2	Super robots, tweet!!
+A_R8S5 B3	Cameras, tweet!!
+A_R8S5 B4	Pots, tweet!!
+A_R8S5 B5	Paintings, tweet!!
+A_R8S5 B6	Classic cars, tweet!!
+A_R8S6 A0	Time to pay up, mussy!
+A_R8S6 A1	Pick one, mussy.
+A_R8S6 A2	I'll arrange delivery, mussy!
+A_R8S6 B0	Comics, mussy!!
+A_R8S6 B1	Tropical fish, mussy!!
+A_R8S6 B2	Super robots, mussy!!
+A_R8S6 B3	Cameras, mussy!!
+A_R8S6 B4	Pots, mussy!!
+A_R8S6 B5	Paintings, mussy!!
+A_R8S6 B6	Classic cars, mussy!!
+
+# A_R9S5: veredictos en la estantería de la tasación (los dibuja la rutina inmediata, ya en 8 bits)
+A_R9S5 78	=Junk{e}
+A_R9S5 79	=So-so{e}
+A_R9S5 80	=Nice{e}
+A_R9S5 81	=Superb{e}
+A_R9S5 82	=Great!!{e}
+A_R9S5 83	=!!!!!{e}

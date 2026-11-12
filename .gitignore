@@ -1,0 +1,18 @@
+# Never commit game data, disc images or BIOS
+*.bin
+*.BIN
+*.iso
+*.cue
+*.chd
+*.ccd
+*.img
+*.mds
+*.mdf
+*.7z
+*.zip
+*.mc[0-9]
+*.mcm
+__pycache__/
+*.pyc
+tools/6x13B.pil
+tools/6x13B.pbm
