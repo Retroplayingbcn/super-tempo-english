@@ -5,6 +5,10 @@ Fan translation of **Super Tempo** (スーパーテンポ, Media Quest / Red Com
 **Current version: v0.9.1** – the whole game is playable in English: story, dialogue, shops, appraisal,
 ending, title menu and most graphics that contain Japanese text.
 
+Translated using AI (Claude) by [RetroPlayingBCN](https://www.retroplayingbcn.es).
+
+**[⬇ Download the latest release](https://github.com/Retroplayingbcn/super-tempo-english/releases/latest)**
+
 *(Versión en español más abajo.)*
 
 ![Screenshots](docs/img/screens.jpg)
@@ -77,7 +81,7 @@ Graphics with Japanese text are uncompressed 4bpp VDP1 sprite pieces and are red
 
 ## Credits
 
-- Translation and hacking: Retroplayingbcn, with Claude (Anthropic)
+- Translation and hacking: [RetroPlayingBCN](https://www.retroplayingbcn.es), with AI (Claude)
 - Original game: © Media Quest 1998, © Red 1995-1998, © Sega 1995. Super Tempo is a trademark of its owners. This is an
   unofficial fan project, not affiliated with them.
 
