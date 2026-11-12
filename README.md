@@ -7,7 +7,7 @@ ending, title menu and most graphics that contain Japanese text.
 
 Translated using AI (Claude) by [RetroPlayingBCN](https://www.retroplayingbcn.es).
 
-**[⬇ Download the latest release](https://github.com/Retroplayingbcn/super-tempo-english/releases/latest)** · [Article on RetroPlayingBCN (Spanish)](https://www.retroplayingbcn.es/2026/11/super-tempo-saturn-parche-ingles.html)
+**[⬇ Download the latest release](https://github.com/Retroplayingbcn/super-tempo-english/releases/latest)** · [Video](https://www.youtube.com/watch?v=Wcx53zGfi_E) · [Article on RetroPlayingBCN (Spanish)](https://www.retroplayingbcn.es/2026/11/super-tempo-saturn-parche-ingles.html)
 
 *(Versión en español más abajo.)*
 
