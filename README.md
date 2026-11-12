@@ -7,7 +7,7 @@ ending, title menu and most graphics that contain Japanese text.
 
 Translated using AI (Claude) by [RetroPlayingBCN](https://www.retroplayingbcn.es).
 
-**[⬇ Download the latest release](https://github.com/Retroplayingbcn/super-tempo-english/releases/latest)**
+**[⬇ Download the latest release](https://github.com/Retroplayingbcn/super-tempo-english/releases/latest)** · [Article on RetroPlayingBCN (Spanish)](https://www.retroplayingbcn.es/2026/11/super-tempo-saturn-parche-ingles.html)
 
 *(Versión en español más abajo.)*
 
@@ -94,4 +94,4 @@ entero en inglés. Para parchear, aplica `patch/SuperTempo_EN_v0.9.1_track1.xdel
 Redump (MD5 de partida `c99185b36312de4faed74200538d7705`, resultado `740224955ef821c33ec5dd2a03558bba`);
 las pistas 2 y 3 y el `.cue` no cambian. Pendiente: el cartel 長者番付 del ranking final, las columnas ドレミ del jefe
 final y un posible cuelgue tras el jefe final en SAROO (sin reproducir). El historial completo de versiones está
-en [CHANGELOG.md](CHANGELOG.md).
+en [CHANGELOG.md](CHANGELOG.md). Artículo completo en [RetroPlayingBCN](https://www.retroplayingbcn.es/2026/11/super-tempo-saturn-parche-ingles.html).
